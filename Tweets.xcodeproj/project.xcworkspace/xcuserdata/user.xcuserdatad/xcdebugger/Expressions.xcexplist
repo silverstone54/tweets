@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Network parseData:completion:]:Network.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Tweets assignDownloadedImage:]:Tweets.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "t2.profile_image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TweetsDataProvider handleLoadData:]:TweetsDataProvider.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FirstViewController handleButtonClick]:FirstViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__46-[ResponseParser parseResponse:expectedClass:]_block_invoke_2:ResponseParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ResponseParser parseResponse:expectedClass:]:ResponseParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "__25-[RestAPI contentRequest]_block_invoke:RestAPI.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RestAPI handleAuthData:]:RestAPI.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
